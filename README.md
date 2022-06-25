@@ -15,4 +15,4 @@ Decision tree
 /
 SVM 
 -------------------------------
-for Run please load app.py
+Main File For Run :  app.py
